@@ -1,0 +1,10 @@
+.mainDiv {
+  background-color: #e5e5e5;
+  padding: 20px;
+}
+.form-control {
+  border: 1px solid #28b9b5;
+}
+.form-select {
+  border: 1px solid #28b9b5;
+}
