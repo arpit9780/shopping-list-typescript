@@ -4,6 +4,8 @@ const Shopingform = () => {
     <>
       <div className="container  mainDiv">
         <div className="row">
+
+        {/* <div className="row"> */}
           <div className="form-group">
             <label>Quantity</label>
             <input className="form-control col-6" placeholder="Quantity" />
